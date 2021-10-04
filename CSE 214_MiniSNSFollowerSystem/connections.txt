@@ -1,6 +1,0 @@
-Paul Smith, Homer Simpson
-Homer Simpson, Jane Doe
-James Doe, Jane Doe
-Jane Doe, Paul Smith
-Paul Smith, Jane Doe
-Tom Doe, Jane Doe
